@@ -17,5 +17,5 @@
     - 
       copy: 
         dest: /var/www/html/
-        src: index.html
+        src: demo-1/index.html
       name: "Deploy static website"
